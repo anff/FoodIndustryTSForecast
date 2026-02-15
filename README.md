@@ -20,4 +20,6 @@ To run this project, run `python3 main.py`.
 - main.py: entry of the project
 - process_data.py: preprocessing the data into structured table
 - build_model.py: build the DL and ML models
-- analyze.py: calculate the metrics to measure the performance of each model  
+- analyze.py: calculate the metrics to measure the performance of each model 
+- opt.py: environmental configuration
+
