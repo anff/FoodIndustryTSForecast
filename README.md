@@ -7,14 +7,18 @@ Obvious improvement over accuracy was observed for the LSTM model.
 
 
 ## Setup
-Use python3 (version 3.9). Follow the steps below to set up your environment. 
+Use python3 (version 3.9). Follow the steps below to set up your environment at the first time. 
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirement.txt
 ```
+Every time when running this project, set up the virtual environment by running	`source .venv/bin/activate`.
 
 To run this project, run `python3 main.py`.
+
+To quit the virtual environment in the end, run	`deactivate`.	
+
 
 ## Content
 - main.py: entry of the project
