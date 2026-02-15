@@ -14,4 +14,10 @@ source .venv/bin/activate
 pip install -r requirement.txt
 ```
 
->> python3 main.py
+To run this project, run `python3 main.py`.
+
+## Content
+- main.py: entry of the project
+- process_data.py: preprocessing the data into structured table
+- build_model.py: build the DL and ML models
+- analyze.py: calculate the metrics to measure the performance of each model  
